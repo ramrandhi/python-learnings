@@ -1,7 +1,4 @@
 # %%
-import sys
+print(10 ** 4) # power of 10
 
-print("Python version:", sys.version)
-print("Python executable:", sys.executable)
-print("Interactive Jupyter is working!")
 # %%
